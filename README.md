@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Sharma</h1>
 
 <h3 align="center">
-Frontend Developer • Building Modern Responsive Websites
+Frontend Developer • Building Modern & Responsive Web Experiences
 </h3>
 
 <p align="center">
@@ -9,10 +9,11 @@ Frontend Developer • Building Modern Responsive Websites
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=3BA4F2&center=true&vCenter=true&width=750&lines=Frontend+Developer;HTML+%7C+CSS+%7C+JavaScript;Building+Modern+Responsive+Websites;Open+to+Internships+%26+Freelance"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=3BA4F2&center=true&vCenter=true&width=800&lines=Frontend+Developer;HTML+%7C+CSS+%7C+JavaScript;Responsive+Website+Developer;Open+to+Internships+%26+Freelance"/>
 </p>
 
 <p align="center">
+
 <a href="https://github.com/WHITEDEVILdn">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -28,6 +29,7 @@ Frontend Developer • Building Modern Responsive Websites
 <a href="https://personal-portfolio-website-livid-psi.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
+
 </p>
 
 ---
@@ -36,17 +38,17 @@ Frontend Developer • Building Modern Responsive Websites
 
 <img align="right" src="./profile.png" width="220"/>
 
-🎓 Final Year B.Tech Student (Computer Science & Information Technology)
+🎓 Final Year B.Tech Student in Computer Science & Information Technology
 
-💻 Frontend Developer passionate about building clean and responsive websites
+💻 Passionate Frontend Developer creating modern and responsive websites
 
-🌱 Continuously improving my JavaScript and frontend development skills
+🚀 Experienced in developing real-world web applications
 
-🚀 Developing real-world web projects
+🌱 Currently learning advanced JavaScript and modern frontend practices
 
-🤝 Open to Internship and Freelance Opportunities
+🤝 Open to Internship, Freelance & Entry-Level Frontend Developer roles
 
-📍 India
+📍 Based in India
 
 <br clear="right"/>
 
@@ -78,21 +80,21 @@ Frontend Developer • Building Modern Responsive Websites
 
 <td width="50%" align="center">
 
-<img src="./carreview.png" width="100%"/>
+<img src="./carreview.png" width="100%" alt="Car Review Platform"/>
 
 ### 🚗 Car Review Platform
 
-Modern responsive website for browsing and comparing cars.
+Responsive website for browsing, comparing and reviewing modern cars.
 
 </td>
 
 <td width="50%" align="center">
 
-<img src="./healthcare.png" width="100%"/>
+<img src="./healthcare.png" width="100%" alt="Medical University Website"/>
 
 ### 🏥 Medical University Website
 
-Responsive medical university and healthcare platform.
+Modern university & healthcare website with a professional responsive design.
 
 </td>
 
@@ -102,21 +104,21 @@ Responsive medical university and healthcare platform.
 
 <td width="50%" align="center">
 
-<img src="./assets/smartgloves.png" width="100%"/>
+<img src="./assets/smartgloves.png" width="100%" alt="Smart Glove"/>
 
 ### 🧤 Smart Glove
 
-IoT-based gesture-to-text communication system.
+IoT project that converts hand gestures into text and speech for better communication.
 
 </td>
 
 <td width="50%" align="center">
 
-<img src="./assets/personal portfolio .png" width="70%"/>
+<img src="./assets/personalportfolio.png" width="100%" alt="Portfolio Website"/>
 
 ### 🌐 Personal Portfolio
 
-Personal portfolio showcasing my work and skills.
+Professional portfolio website showcasing projects, skills and certifications.
 
 </td>
 
@@ -130,25 +132,25 @@ Personal portfolio showcasing my work and skills.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=WHITEDEVILdn&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=WHITEDEVILdn&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WHITEDEVILdn&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WHITEDEVILdn&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=WHITEDEVILdn&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=WHITEDEVILdn&theme=github-dark-blue&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=WHITEDEVILdn&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=WHITEDEVILdn&theme=algolia&no-frame=true&margin-w=10"/>
 
 </p>
 
@@ -156,14 +158,17 @@ Personal portfolio showcasing my work and skills.
 
 # 📜 Certifications
 
-- AWS Academy Cloud Foundations
-- Palo Alto Networks Cybersecurity
-- Infosys Springboard JavaScript
-- Python Essentials
+✅ AWS Academy Cloud Foundations
+
+✅ Palo Alto Networks Cybersecurity
+
+✅ Infosys Springboard JavaScript
+
+✅ Python Essentials
 
 ---
 
-# 📫 Connect With Me
+# 📫 Let's Connect
 
 <p align="center">
 
@@ -189,6 +194,8 @@ Personal portfolio showcasing my work and skills.
 
 <p align="center">
 
-⭐ If you like my work, consider giving a ⭐ to my repositories.
+⭐ Thanks for visiting my GitHub Profile.
+
+If you like my work, consider giving a ⭐ to my repositories.
 
 </p>
